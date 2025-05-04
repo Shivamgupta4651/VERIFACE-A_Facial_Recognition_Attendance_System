@@ -32,7 +32,7 @@ export-env {
       }
     }
 
-    let virtual_env = '/Users/rishirajrajawat/PycharmProjects/Veriface123/venv'
+    let virtual_env = '/Users/rishirajrajawat/PycharmProjects/Veriface123/.venv'
     let bin = 'bin'
 
     let is_windows = ($nu.os-info.family) == 'windows'
